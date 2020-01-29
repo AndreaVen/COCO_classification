@@ -1,8 +1,7 @@
 # COCO_classification
 The COCO classification is an object detection dataset. The objective of this repository is to use it for an image classification task.
 How to use:
-download the validation or train sets from http://cocodataset.org/#download
-extract che dataset and the annotation so thath the directory structure is 
+download the validation or train sets from http://cocodataset.org/#download, extract che dataset and the annotation so thath the directory structure is 
 │
 ├─Val2014
 ├─annotations
