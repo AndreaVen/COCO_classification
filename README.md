@@ -16,3 +16,4 @@ genera_coco_classificationV2 takes the list of class and saves them in a folder 
 dict_generator takes the images and builds a dictionary of full path divided in trian test val and a dictionary of labels
 cnn_on_coco gets the dictionary and feed it to the keras_data_generator, using this it perform a transfer learning using VGG16
 The "reduced" and "other" version load the pretrained network and use it on a simplified problem
+Pretrained model, raw images and some checkpoints at: https://drive.google.com/open?id=1p9cDy_flvhA0rKBlaoj7irwvv1ZdnPkF
